@@ -2,8 +2,8 @@
 # Open Source Software Audit Project
 
 ## Student Details
-Name: Shivendra  
-Roll Number: 24BCE10389  
+Name: Shivendra Pandey
+Registration Number: 24BCE10389  
 
 ## Selected Software
 VLC Media Player
